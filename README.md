@@ -4,16 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer, ML developer, app developer, designer
 ----------------------------------------------------
 
-An aspiring AI and Data Science Engineer passionate about developing intelligent systems, automation tools, and
-
-real-world technology solutions. Skilled in machine learning, web development, and IoT integration, with hands
-
-on experience gained through academic and hackathon projects. Eager to contribute technical expertise,
-
-creativity, and problem-solving abilities to innovative, high-impact applications, while continuously learning and
-
-bridging AI innovation with practical usability
-
 * 🌍  I'm based in Chennai, India
 * 🖥️  See my portfolio at [My Portfolio](http://rr024.github.io/Portfolio/)
 * ✉️  You can contact me at [rohitramjv05@gmail.com](mailto:rohitramjv05@gmail.com)
