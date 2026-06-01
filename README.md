@@ -14,7 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Bridging+AI+innovation+with+real-world+usability;Building+intelligent+systems+%26+automation+tools;Hackathon+survivor+%7C+IoT+tinkerer+%7C+ML+geek;Currently+crafting+%E2%80%94+Project+Nero+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22)](https://rr024.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22)](https://www.linkedin.com/in/rohitram-jv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://www.linkedin.com/in/rohitram-jv)
 [![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f78166&labelColor=161b22)](mailto:rohitramjv05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22)](https://github.com/RR024)
 [![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=bc8cff&labelColor=161b22)](https://discord.com/users/Shoyo)
@@ -64,11 +64,9 @@
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=e6edf3)
-![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/Sass-0d1117?style=flat-square&logo=sass&logoColor=CC6699)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=264de4)
 ![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
 ![Webpack](https://img.shields.io/badge/Webpack-0d1117?style=flat-square&logo=webpack&logoColor=8DD6F9)
 
@@ -99,20 +97,14 @@
 </details>
 
 <details>
-<summary><b>☁️ Cloud, DevOps & Tools</b></summary>
+<summary><b>🛠️ Tools</b></summary>
 <br>
 
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![Render](https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=46E3B7)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=e6edf3)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=flat-square&logo=ubuntu&logoColor=E95420)
-![Fedora](https://img.shields.io/badge/Fedora-0d1117?style=flat-square&logo=fedora&logoColor=51A2DA)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Blender](https://img.shields.io/badge/Blender-0d1117?style=flat-square&logo=blender&logoColor=F5792A)
-![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00979D)
 ![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B)
 
 </details>
