@@ -1,37 +1,172 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rohitram
-=================================================================================================================================
+<div align="center">
 
-Web developer, ML developer, app developer, designer
-----------------------------------------------------
+```
+██████╗  ██████╗ ██╗  ██╗██╗████████╗██████╗  █████╗ ███╗   ███╗
+██╔══██╗██╔═══██╗██║  ██║██║╚══██╔══╝██╔══██╗██╔══██╗████╗ ████║
+██████╔╝██║   ██║███████║██║   ██║   ██████╔╝███████║██╔████╔██║
+██╔══██╗██║   ██║██╔══██║██║   ██║   ██╔══██╗██╔══██║██║╚██╔╝██║
+██║  ██║╚██████╔╝██║  ██║██║   ██║   ██║  ██║██║  ██║██║ ╚═╝ ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
 
-An aspiring AI and Data Science Engineer passionate about developing intelligent systems, automation tools, and
+### `< AI/ML Engineer · Web Developer · Builder · Designer />`
 
-real-world technology solutions. Skilled in machine learning, web development, and IoT integration, with hands
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Bridging+AI+innovation+with+real-world+usability;Building+intelligent+systems+%26+automation+tools;Hackathon+survivor+%7C+IoT+tinkerer+%7C+ML+geek;Currently+crafting+%E2%80%94+Project+Nero+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-on experience gained through academic and hackathon projects. Eager to contribute technical expertise,
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22)](https://rr024.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22)](https://www.linkedin.com/in/rohitram-jv)
+[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f78166&labelColor=161b22)](mailto:rohitramjv05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22)](https://github.com/RR024)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=bc8cff&labelColor=161b22)](https://discord.com/users/Shoyo)
 
-creativity, and problem-solving abilities to innovative, high-impact applications, while continuously learning and
+</div>
 
-bridging AI innovation with practical usability
+---
 
-* 🌍  I'm based in Chennai, India
-* 🖥️  See my portfolio at [My Portfolio](http://rr024.github.io/Portfolio/)
-* ✉️  You can contact me at [rohitramjv05@gmail.com](mailto:rohitramjv05@gmail.com)
-* 🚀  I'm currently working on [Nero](http://github.com/RR024/Jarvis.git)
-* 🧠  I'm currently learning express, react
-* 👥  I'm looking to collaborate on interesting projects
+## `$ cat profile.json`
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="Webpack" title="Webpack" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
-</p>
+```json
+{
+  "name"     : "Rohitram J V",
+  "location" : "Chennai, India 🌏",
+  "role"     : "Aspiring AI & Data Science Engineer",
+  "mission"  : "Bridge AI innovation with practical, real-world usability",
+  "focus"    : ["Intelligent Systems", "Automation Tools", "IoT Integration"],
+  "currently": {
+    "building" : "Nero — a personal AI assistant",
+    "learning" : ["Express.js", "React"],
+    "seeking"  : "Collaborators for interesting high-impact projects"
+  },
+  "superpower": "Turning hackathon chaos into working products"
+}
+```
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/RR024" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/RR024" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.linkedin.com/in/rohitram-jv" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/Shoyo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-### Badges
+## `$ ls -la skills/`
 
-<b>My GitHub Stats</b>
+<details>
+<summary><b>🧠 Languages</b></summary>
+<br>
 
-<a href="http://www.github.com/RR024"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RR024&stroke=ffffff&background=1c1917&ring=0f172a&fire=0f172a&currStreakNum=ffffff&currStreakLabel=0f172a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3572a5)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f1e05a)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=555599)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=f34b7d)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=b07219)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=A97BFF)
 
-<a href="https://github.com/RR024" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RR024&langs_count=10&title_color=0f172a&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</details>
+
+<details>
+<summary><b>🌐 Frontend</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=e6edf3)
+![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/Sass-0d1117?style=flat-square&logo=sass&logoColor=CC6699)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
+![Webpack](https://img.shields.io/badge/Webpack-0d1117?style=flat-square&logo=webpack&logoColor=8DD6F9)
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend & Databases</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=e6edf3)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
+
+</details>
+
+<details>
+<summary><b>🤖 AI / ML</b></summary>
+<br>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud, DevOps & Tools</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![Render](https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=46E3B7)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=flat-square&logo=ubuntu&logoColor=E95420)
+![Fedora](https://img.shields.io/badge/Fedora-0d1117?style=flat-square&logo=fedora&logoColor=51A2DA)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
+![Blender](https://img.shields.io/badge/Blender-0d1117?style=flat-square&logo=blender&logoColor=F5792A)
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00979D)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B)
+
+</details>
+
+---
+
+## `$ git log --oneline --graph`
+
+```
+* 🚀  Currently shipping  ──── Project Nero  (AI personal assistant)
+* 🌐  Portfolio live      ──── rr024.github.io/Portfolio
+* 🎓  Currently studying  ──── Express.js · React deep-dives
+* 🤝  Open for collab     ──── High-impact, interesting projects
+* 📍  Base of operations  ──── Chennai, India
+```
+
+---
+
+## `$ github-stats --user RR024`
+
+<div align="center">
+
+<a href="https://github.com/RR024">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=RR024&stroke=58a6ff&background=0d1117&ring=58a6ff&fire=bc8cff&currStreakNum=e6edf3&currStreakLabel=58a6ff&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e&hide_border=true" />
+</a>
+<a href="https://github.com/RR024">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RR024&langs_count=8&title_color=58a6ff&text_color=e6edf3&icon_color=bc8cff&bg_color=0d1117&hide_border=true&locale=en&custom_title=Most%20Used%20Languages&layout=compact" />
+</a>
+
+</div>
+
+---
+
+## `$ whoami --extended`
+
+```
+> An aspiring AI & Data Science engineer passionate about building
+> systems that actually do things — not just demos.
+>
+> I thrive at the intersection of machine learning, IoT, and web tech,
+> with hands-on experience from hackathons and real projects.
+>
+> Currently training my own AI assistant (Nero) and bridging the gap
+> between AI research and everyday human usability.
+>
+> Always learning. Always shipping.
+```
+
+---
+
+<div align="center">
+
+`// let's build something remarkable`
+
+[![Profile views](https://komarev.com/ghpvc/?username=RR024&style=flat-square&color=58a6ff&label=profile+views)](https://github.com/RR024)
+
+</div>
