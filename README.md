@@ -25,7 +25,7 @@
 
 ## `$ cat profile.json`
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/RR024/RR024/main/dev-animation.svg"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```json
 {
