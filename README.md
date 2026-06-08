@@ -9,37 +9,36 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
 ```
 
-### `< AI/ML Engineer · Web Developer · Builder · Designer />`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Bridging+AI+innovation+with+real-world+usability;Building+intelligent+systems+%26+automation+tools;Hackathon+survivor+%7C+IoT+tinkerer+%7C+ML+geek;Currently+crafting+%E2%80%94+Project+Nero+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22)](https://rr024.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://www.linkedin.com/in/rohitram-jv)
-[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f78166&labelColor=161b22)](mailto:rohitramjv05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22)](https://github.com/RR024)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=bc8cff&labelColor=161b22)](https://discord.com/users/Shoyo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=AI+%2F+ML+Engineer+%C2%B7+Web+Developer+%C2%B7+Builder;Building+systems+that+actually+do+things;Not+just+demos+%E2%80%94+real+usability;Currently+training+Nero+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `$ cat profile.json`
+## `$ cat /proc/self/status`
 
-```json
-{
-  "name"     : "Rohitram J V",
-  "location" : "Chennai, India 🌏",
-  "role"     : "Aspiring AI & Data Science Engineer",
-  "mission"  : "Bridge AI innovation with practical, real-world usability",
-  "focus"    : ["Intelligent Systems", "Automation Tools", "IoT Integration"],
-  "currently": {
-    "building" : "Nero — a personal AI assistant",
-    "learning" : ["Express.js", "React"],
-    "seeking"  : "Collaborators for interesting high-impact projects"
-  },
-  "superpower": "Turning hackathon chaos into working products"
-}
 ```
+Name     : Rohitram J V
+Alias    : rr024
+Role     : Aspiring AI & Data Science Engineer
+Location : Chennai, India
+Mission  : Bridge AI innovation with real-world usability
+Status   : Always learning. Always shipping.
+```
+
+---
+
+## `$ ps aux | grep "nero"`
+
+```
+PID  COMMAND        STATUS    DESCRIPTION
+001  project-nero   RUNNING   Personal AI assistant — voice, memory, automation
+002  portfolio      LIVE      rr024.github.io/Portfolio
+003  express-react  LEARNING  Deep-diving backend + frontend
+004  open-collab    OPEN      High-impact, interesting projects — IoT · ML · Web
+```
+
+> **Nero** is my most ambitious side project — a personal AI assistant built from scratch, designed to be genuinely useful rather than a showcase piece.
 
 ---
 
@@ -94,10 +93,12 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 
+> Not just running notebooks — building custom models for real systems.
+
 </details>
 
 <details>
-<summary><b>🛠️ Tools</b></summary>
+<summary><b>🛠️ Tools & Platforms</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
@@ -111,19 +112,23 @@
 
 ---
 
-## `$ git log --oneline --graph`
+## `$ git log --graph --format="%s %d"`
 
 ```
-* 🚀  Currently shipping  ──── Project Nero  (AI personal assistant)
-* 🌐  Portfolio live      ──── rr024.github.io/Portfolio
-* 🎓  Currently studying  ──── Express.js · React deep-dives
-* 🤝  Open for collab     ──── High-impact, interesting projects
-* 📍  Base of operations  ──── Chennai, India
+* 🚀 Nero v0.1 alpha                   [building]
+|
+* 🌐 Portfolio deployed                 [live → rr024.github.io/Portfolio]
+|
+* 📡 IoT hackathon project              [shipped]
+|
+* 🎓 Express.js + React deep-dives      [in-progress]
+|
+* 🤝 Open for collabs                   [always]
 ```
 
 ---
 
-## `$ github-stats --user RR024`
+## `$ github-stats --verbose`
 
 <div align="center">
 
@@ -138,24 +143,29 @@
 
 ---
 
-## `$ whoami --extended`
+## `$ cat manifesto.txt`
 
 ```
-> An aspiring AI & Data Science engineer passionate about building
-> systems that actually do things — not just demos.
->
-> I thrive at the intersection of machine learning, IoT, and web tech,
-> with hands-on experience from hackathons and real projects.
->
-> Currently training my own AI assistant (Nero) and bridging the gap
-> between AI research and everyday human usability.
->
-> Always learning. Always shipping.
+An engineer who builds systems that actually do things — not just demos.
+
+Thriving at the intersection of ML, IoT, and web tech.
+Hands-on from hackathons to hobby projects to production.
+
+Currently training Nero: an AI assistant that remembers,
+reasons, and acts — designed around real usability.
+
+The goal isn't to impress. It's to be useful.
 ```
 
 ---
 
 <div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22)](https://rr024.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://www.linkedin.com/in/rohitram-jv)
+[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f78166&labelColor=161b22)](mailto:rohitramjv05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22)](https://github.com/RR024)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=bc8cff&labelColor=161b22)](https://discord.com/users/Shoyo)
 
 `// let's build something remarkable`
 
