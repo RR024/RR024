@@ -1,0 +1,75 @@
+<svg width="480" height="260" viewBox="0 0 480 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ringGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00E5C7"/><stop offset="100%" stop-color="#39FF14"/>
+    </linearGradient>
+    <linearGradient id="barGradS" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5C7"/><stop offset="100%" stop-color="#39FF14"/>
+    </linearGradient>
+    <filter id="glowS" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    
+  </defs>
+  <rect x="0" y="0" width="480" height="260" rx="18" fill="#081018" stroke="rgba(255,255,255,0.09)" stroke-width="1"/>
+  <rect x="0" y="0" width="480" height="260" rx="18" fill="rgba(255,255,255,0.045)"/>
+  <text x="24" y="34" font-family="'Segoe UI',sans-serif" font-size="15" letter-spacing="1.5" fill="#FFFFFF" font-weight="600">GITHUB STATS</text>
+
+  <!-- circular rank indicator -->
+  <g transform="translate(90,150)">
+    <circle r="46" fill="none" stroke="rgba(255,255,255,0.09)" stroke-width="8"/>
+    <circle r="46" fill="none" stroke="url(#ringGrad)" stroke-width="8" stroke-linecap="round"
+      stroke-dasharray="289.03" stroke-dashoffset="289.03" transform="rotate(-90)" filter="url(#glowS)">
+      <animate attributeName="stroke-dashoffset" from="289.03" to="26.01" dur="1.6s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+    </circle>
+    <text x="0" y="-4" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="22" font-weight="700" fill="#FFFFFF">A+</text>
+    <text x="0" y="16" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10.5" fill="#C9D1D9" opacity="0.75">RANK</text>
+  </g>
+
+  
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.3s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="-16,0;0,0" dur="0.5s" begin="0.3s" fill="freeze"/>
+      <text x="200" y="60" font-family="'Segoe UI',sans-serif" font-size="13.5" fill="#C9D1D9">Total Stars</text>
+      <text x="470" y="60" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#00E5C7">312</text>
+    </g>
+    <line x1="200" y1="70" x2="470" y2="70" stroke="rgba(255,255,255,0.09)" stroke-width="1">
+      <animate attributeName="opacity" values="0;0.6" dur="0.3s" begin="0.4s" fill="freeze"/>
+    </line>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.45s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="-16,0;0,0" dur="0.5s" begin="0.45s" fill="freeze"/>
+      <text x="200" y="94" font-family="'Segoe UI',sans-serif" font-size="13.5" fill="#C9D1D9">Total Commits</text>
+      <text x="470" y="94" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#00E5C7">1,842</text>
+    </g>
+    <line x1="200" y1="104" x2="470" y2="104" stroke="rgba(255,255,255,0.09)" stroke-width="1">
+      <animate attributeName="opacity" values="0;0.6" dur="0.3s" begin="0.55s" fill="freeze"/>
+    </line>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.6s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="-16,0;0,0" dur="0.5s" begin="0.6s" fill="freeze"/>
+      <text x="200" y="128" font-family="'Segoe UI',sans-serif" font-size="13.5" fill="#C9D1D9">Total PRs</text>
+      <text x="470" y="128" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#00E5C7">76</text>
+    </g>
+    <line x1="200" y1="138" x2="470" y2="138" stroke="rgba(255,255,255,0.09)" stroke-width="1">
+      <animate attributeName="opacity" values="0;0.6" dur="0.3s" begin="0.7s" fill="freeze"/>
+    </line>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.75s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="-16,0;0,0" dur="0.5s" begin="0.75s" fill="freeze"/>
+      <text x="200" y="162" font-family="'Segoe UI',sans-serif" font-size="13.5" fill="#C9D1D9">Total Issues</text>
+      <text x="470" y="162" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#00E5C7">34</text>
+    </g>
+    <line x1="200" y1="172" x2="470" y2="172" stroke="rgba(255,255,255,0.09)" stroke-width="1">
+      <animate attributeName="opacity" values="0;0.6" dur="0.3s" begin="0.85s" fill="freeze"/>
+    </line>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.9s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="-16,0;0,0" dur="0.5s" begin="0.9s" fill="freeze"/>
+      <text x="200" y="196" font-family="'Segoe UI',sans-serif" font-size="13.5" fill="#C9D1D9">Contributed To</text>
+      <text x="470" y="196" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#00E5C7">18 repos</text>
+    </g>
+    <line x1="200" y1="206" x2="470" y2="206" stroke="rgba(255,255,255,0.09)" stroke-width="1">
+      <animate attributeName="opacity" values="0;0.6" dur="0.3s" begin="1.0s" fill="freeze"/>
+    </line>
+</svg>
